@@ -1,0 +1,923 @@
+## Document Information
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+DocumentName: SPDX Document created by ScanCode Toolkit
+DocumentNamespace: http://spdx.org/spdxdocs/commons_cli_1_9_0_src-dd32e28e-ddc8-49b1-add2-be627757325f
+DocumentComment: <text>Generated with ScanCode and provided on an "AS IS" BASIS, WITHOUT WARRANTIES
+OR CONDITIONS OF ANY KIND, either express or implied. No content created from
+ScanCode should be considered or used as legal advice. Consult an Attorney
+for any legal advice.
+ScanCode is a free software code scanning tool from nexB Inc. and others.
+Visit https://github.com/nexB/scancode-toolkit/ for support and download.
+SPDX License List: 3.27</text>
+
+## Creation Information
+LicenseListVersion: 3.27
+Creator: Tool: scancode-toolkit 32.5.0
+Created: 2026-10-29T06:08:09Z
+
+## Package Information
+PackageName: commons_cli_1_9_0_src
+SPDXID: SPDXRef-001
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 05723eabf7f83e79712d75f59c2dab8bfd014d84
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseInfoFromFiles: Apache-2.0
+PackageLicenseInfoFromFiles: LicenseRef-scancode-generic-cla
+PackageLicenseInfoFromFiles: LicenseRef-scancode-unknown-license-reference
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: <text>Copyright 2002-2024 The Apache Software Foundation
+</text>
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/CONTRIBUTING.md
+SPDXID: SPDXRef-2
+FileChecksum: SHA1: 38c221da1da8d6fa1156eac27a2c3f1a5e2ae4ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-scancode-generic-cla
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/LICENSE.txt
+SPDXID: SPDXRef-3
+FileChecksum: SHA1: a8f3e29d5eab4420318de979754f5637d4bf2c3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/NOTICE.txt
+SPDXID: SPDXRef-4
+FileChecksum: SHA1: 0d44385defbd6ea1547adc0df7c3c784c1fb9714
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2002-2024 The Apache Software Foundation
+</text>
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/pom.xml
+SPDXID: SPDXRef-5
+FileChecksum: SHA1: eb7ec120e771853e0d6d666e2639b79715a21c42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/README.md
+SPDXID: SPDXRef-6
+FileChecksum: SHA1: ad92d80c089cb15cd792b5d7ea0d2d2fcb84dab0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-scancode-generic-cla
+LicenseInfoInFile: LicenseRef-scancode-unknown-license-reference
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/RELEASE-NOTES.txt
+SPDXID: SPDXRef-7
+FileChecksum: SHA1: 207d208db0ece2815db7f5737cb27e2d83bee32f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/assembly/bin.xml
+SPDXID: SPDXRef-10
+FileChecksum: SHA1: bd5c24c07c92f5fa9c82477bd392ec210ff18ce3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/assembly/src.xml
+SPDXID: SPDXRef-11
+FileChecksum: SHA1: 1d9dad9f94fa8447fce09e0a7177356beaaeff24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/changes/changes.xml
+SPDXID: SPDXRef-13
+FileChecksum: SHA1: d1f0c8ca0b43782c8387597d5ea53ba98e696a21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/changes/release-notes.vm
+SPDXID: SPDXRef-14
+FileChecksum: SHA1: 740fc9a049e7df83e2b6c8a851368e8f17f26800
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/conf/checkstyle-suppressions.xml
+SPDXID: SPDXRef-16
+FileChecksum: SHA1: 732651784b5902595f40be6d8cfbaccae96fb4e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/conf/checkstyle.xml
+SPDXID: SPDXRef-17
+FileChecksum: SHA1: e7e40a8344b55c3bf7f4de21a8670b7b0446e3f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/conf/spotbugs-exclude-filter.xml
+SPDXID: SPDXRef-18
+FileChecksum: SHA1: 6d0d83fb542f49392068537321f922fdb4b73b92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/AlreadySelectedException.java
+SPDXID: SPDXRef-25
+FileChecksum: SHA1: 239ddd2e2c792f01a1fd8ea6aaff4275c6655219
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/AmbiguousOptionException.java
+SPDXID: SPDXRef-26
+FileChecksum: SHA1: 4f6b611e203ecadf8921ab7da01aa004bb60d4bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/BasicParser.java
+SPDXID: SPDXRef-27
+FileChecksum: SHA1: 73bcf06b15b72dac944a5770d3b11e247067a36a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/Char.java
+SPDXID: SPDXRef-28
+FileChecksum: SHA1: 3d6302cc232710fc89f40a6d15b55802309b31e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/CommandLine.java
+SPDXID: SPDXRef-29
+FileChecksum: SHA1: 3f075a81fbd833d49c4c4922963afd1600635785
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/CommandLineParser.java
+SPDXID: SPDXRef-30
+FileChecksum: SHA1: 5680215bbeed675f26861f822c8ca910c4f61512
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/Converter.java
+SPDXID: SPDXRef-31
+FileChecksum: SHA1: 1da3d548e4bcb9b8a5c1790c96aecd2bd3542af9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/DefaultParser.java
+SPDXID: SPDXRef-32
+FileChecksum: SHA1: 13383876f24150653a3f1ce9b3b5c880be5ac3d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/DeprecatedAttributes.java
+SPDXID: SPDXRef-33
+FileChecksum: SHA1: d2042f65db3e7e48bff98759e5e3529025d11a6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/GnuParser.java
+SPDXID: SPDXRef-34
+FileChecksum: SHA1: f95b929e301d999c5e04344bd4b5c9b60c3e8318
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/HelpFormatter.java
+SPDXID: SPDXRef-35
+FileChecksum: SHA1: 0e4399d625574a30857d2a9f4c1805b10f0aeacf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/MissingArgumentException.java
+SPDXID: SPDXRef-36
+FileChecksum: SHA1: cdbd187965cb38805605b04dddfce453028262e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/MissingOptionException.java
+SPDXID: SPDXRef-37
+FileChecksum: SHA1: 622dce64d896802480cd095cb4ef8f480b7002f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/Option.java
+SPDXID: SPDXRef-38
+FileChecksum: SHA1: d028f00eda6a5c7437b0da755108f82a96b9beb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/OptionBuilder.java
+SPDXID: SPDXRef-39
+FileChecksum: SHA1: 3c2ae9de62d8eeaeb631faef84a11153cdd805b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/OptionGroup.java
+SPDXID: SPDXRef-40
+FileChecksum: SHA1: c0523800fe966c68135bc1f3785071fb5084db73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/Options.java
+SPDXID: SPDXRef-41
+FileChecksum: SHA1: 27e04c065f7d6b2d2a35e0e4211e2882be3ca60e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/OptionValidator.java
+SPDXID: SPDXRef-42
+FileChecksum: SHA1: 93f742c9f0357aad8a18928d45dfa2a9c54129ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/overview.html
+SPDXID: SPDXRef-43
+FileChecksum: SHA1: d4a7f8d54f75e6856d194a5b2bfaf3ce190b1c93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/package-info.java
+SPDXID: SPDXRef-44
+FileChecksum: SHA1: 38c236fd5465e9817fb13075b0f4ffe3ae860aa6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/ParseException.java
+SPDXID: SPDXRef-45
+FileChecksum: SHA1: 417408e814018e0b4f32053b0ea856369c807682
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/Parser.java
+SPDXID: SPDXRef-46
+FileChecksum: SHA1: a3b6686ea26384cec8cd78fdf40a5aa676230ae5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/PatternOptionBuilder.java
+SPDXID: SPDXRef-47
+FileChecksum: SHA1: 0c3abd00d98609eee16aa25e945a905a6033b593
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/PosixParser.java
+SPDXID: SPDXRef-48
+FileChecksum: SHA1: 2a4e1b04a1011e20c562e35eaab76877f1e83b37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/TypeHandler.java
+SPDXID: SPDXRef-49
+FileChecksum: SHA1: 56050e3fd6ec2b612d8c8db7f67b228fc63f10e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/UnrecognizedOptionException.java
+SPDXID: SPDXRef-50
+FileChecksum: SHA1: 998ac14353735814dc80e037bb16be36286044d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/main/java/org/apache/commons/cli/Util.java
+SPDXID: SPDXRef-51
+FileChecksum: SHA1: 525319adaf3fcbfaeea251eefe720e6537bc58a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/media/logo.xcf
+SPDXID: SPDXRef-53
+FileChecksum: SHA1: 5e05ad2259c6f5dd1c110ba57d9e4877f71b2d03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/site.xml
+SPDXID: SPDXRef-55
+FileChecksum: SHA1: a25fc309658bbd7e093f2bcf0d5c6dd43a3ac392
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/resources/.htaccess
+SPDXID: SPDXRef-57
+FileChecksum: SHA1: a4e8a4cfa92a751a07fe0f9b62adb201cb9eff9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/resources/download_cli.cgi
+SPDXID: SPDXRef-58
+FileChecksum: SHA1: dded98c826d542e13fceebc5323d050ed25995d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/resources/profile.jacoco
+SPDXID: SPDXRef-59
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/resources/images/1x1.gif
+SPDXID: SPDXRef-61
+FileChecksum: SHA1: 2daeaa8b5f19f0bc209d976c02bd6acb51b00b0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/resources/images/logo.png
+SPDXID: SPDXRef-62
+FileChecksum: SHA1: a570cc3443c7ba29c6cc89ed5873b76aa5da4387
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/resources/images/options.png
+SPDXID: SPDXRef-63
+FileChecksum: SHA1: 02aeb3cc5e0aef0e82edab65653843f65ffbc6ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/resources/images/svg/commandlines.svg
+SPDXID: SPDXRef-65
+FileChecksum: SHA1: a9be9253ee5b8d9f8fac93d2f1cea4d038661ce8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/resources/images/svg/diagrams-cli2.js
+SPDXID: SPDXRef-66
+FileChecksum: SHA1: 07ff2a7189ec1238df60f0d4173d018d45030c83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/resources/images/svg/diagrams.css
+SPDXID: SPDXRef-67
+FileChecksum: SHA1: 5fe68056afa7678a611a2235d6dcf39671a93a34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/resources/images/svg/diagrams.js
+SPDXID: SPDXRef-68
+FileChecksum: SHA1: 5d8861e4390e63ede065e951c9345f155da8ac96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/resources/images/svg/options.svg
+SPDXID: SPDXRef-69
+FileChecksum: SHA1: d9e4c13bbcd535f136df55428ea6ea311d7b7801
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/resources/images/svg/util.svg
+SPDXID: SPDXRef-70
+FileChecksum: SHA1: 9c494c5cef3d6a8d897b6ec9df6ccd107ae53a2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/xdoc/download_cli.xml
+SPDXID: SPDXRef-72
+FileChecksum: SHA1: 9ba9168eccbadd8942dfcecba18408eb8d560a84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/xdoc/index.xml
+SPDXID: SPDXRef-73
+FileChecksum: SHA1: 1f7377e252f605acf46c61503789a2416f5d654d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/xdoc/introduction.xml
+SPDXID: SPDXRef-74
+FileChecksum: SHA1: 198d498503ece87215e105708514e29f3ea00a70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/xdoc/issue-tracking.xml
+SPDXID: SPDXRef-75
+FileChecksum: SHA1: c4db4261db5d8cd2ca95e8634531d0ab8baaf9d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/xdoc/mail-lists.xml
+SPDXID: SPDXRef-76
+FileChecksum: SHA1: 9f2ad2ccf2ebdc0045c9bf58f97fc5a3767433d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/xdoc/properties.xml
+SPDXID: SPDXRef-77
+FileChecksum: SHA1: 81a06ff3ac181b1bea4d47cb4c86ffc1c0c791c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/xdoc/release_1_0.xml
+SPDXID: SPDXRef-78
+FileChecksum: SHA1: 6a7458f47993a954eae4cc7882a15f116e6bade6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/xdoc/release_1_2.xml
+SPDXID: SPDXRef-79
+FileChecksum: SHA1: c819ff9e22ec453f3da53450a26ede87a2afac06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/xdoc/release_1_3.xml
+SPDXID: SPDXRef-80
+FileChecksum: SHA1: de6a85a1963a12797c554c8d0fa66b190c48594e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/xdoc/release_1_3_1.xml
+SPDXID: SPDXRef-81
+FileChecksum: SHA1: 0195397255f15d90a5c689c92ae009e07949bdf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/xdoc/release_1_4.xml
+SPDXID: SPDXRef-82
+FileChecksum: SHA1: f1422971717954273a3301fd1906a8cfb03a76ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/xdoc/upgrading-1.0-to-1.1.xml
+SPDXID: SPDXRef-83
+FileChecksum: SHA1: 1450070f46815d2a11c4fc9e523234632f19f0fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/site/xdoc/usage.xml
+SPDXID: SPDXRef-84
+FileChecksum: SHA1: 383518bd92953a2b1227289a7bad6d701284a8e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/AbstractParserTestCase.java
+SPDXID: SPDXRef-91
+FileChecksum: SHA1: 71aa476dab94b255f13e47ecac2851532b30a9e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/AlreadySelectedExceptionTest.java
+SPDXID: SPDXRef-92
+FileChecksum: SHA1: 2478678c7f8808bcec36ae070806d556d35a8a11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/ApplicationTest.java
+SPDXID: SPDXRef-93
+FileChecksum: SHA1: 743c5f5e32eab04696011d88a18e31f8997ba6d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/ArgumentIsOptionTest.java
+SPDXID: SPDXRef-94
+FileChecksum: SHA1: 2e532df8c6f088d29cfb06fafd442f29f417cd10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/BasicParserTest.java
+SPDXID: SPDXRef-95
+FileChecksum: SHA1: 4ac8e129670656b64b50c1e57ae209329fd4b415
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/CommandLineTest.java
+SPDXID: SPDXRef-96
+FileChecksum: SHA1: 869c45a54cdd8b55384f03b0bf0853bbab1f4b7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/ConverterTests.java
+SPDXID: SPDXRef-98
+FileChecksum: SHA1: 9561eb8c07c81333623052983c54111379a50858
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/DefaultParserTest.java
+SPDXID: SPDXRef-99
+FileChecksum: SHA1: f9d17201fba9062deeefd9397eeff2a29fcc2188
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/DeprecatedAttributesTest.java
+SPDXID: SPDXRef-100
+FileChecksum: SHA1: cb7c07792e73f363b1708bb1ace563c0a9286d7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/DisablePartialMatchingTest.java
+SPDXID: SPDXRef-101
+FileChecksum: SHA1: 39b5c520ef84bf2200f439e419c3734b20fb8ab0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/GnuParserTest.java
+SPDXID: SPDXRef-102
+FileChecksum: SHA1: 44b26bae4eb5f90b4724d0e531061bee92765c1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/HelpFormatterTest.java
+SPDXID: SPDXRef-103
+FileChecksum: SHA1: cb9a87f8780e85f10b079ec4e96409c0626ec52e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/OptionBuilderTest.java
+SPDXID: SPDXRef-104
+FileChecksum: SHA1: 43c1aa337e7fb447aa7e746bc09264d1962e5a46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/OptionGroupTest.java
+SPDXID: SPDXRef-105
+FileChecksum: SHA1: 8787aa82e0cf14607ac3bf198c126ce1a843d296
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/OptionsTest.java
+SPDXID: SPDXRef-106
+FileChecksum: SHA1: af618ef628cfa4dc59c9bd2325f35332d152fd60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/OptionTest.java
+SPDXID: SPDXRef-107
+FileChecksum: SHA1: 68647887add9b2e5bb9bf894ba5a84016bd5164c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/OptionValidatorTest.java
+SPDXID: SPDXRef-108
+FileChecksum: SHA1: f5a5f69565e73b36c56905e4198a4f493377971f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/ParseExceptionTest.java
+SPDXID: SPDXRef-109
+FileChecksum: SHA1: bd32d0389afcf8a86d8a1370e52685ab4f3b4923
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/PatternOptionBuilderTest.java
+SPDXID: SPDXRef-110
+FileChecksum: SHA1: 8e7c93cf225577a0a718f5b2686b848cb46dade0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/PosixParserTest.java
+SPDXID: SPDXRef-111
+FileChecksum: SHA1: f51619fa7e5cfb6e2c6460e85d242aeb24659c32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/SolrCliTest.java
+SPDXID: SPDXRef-112
+FileChecksum: SHA1: cb77daf00c7639c61ad708a1469a5c75e10da3a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/SolrCreateToolTest.java
+SPDXID: SPDXRef-113
+FileChecksum: SHA1: a40685af6fbee46940b7ddb48470e46e70d8a86d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/TypeHandlerTest.java
+SPDXID: SPDXRef-114
+FileChecksum: SHA1: 3f6065c74487a24ab38968e9094fb6463c1a36f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/UnrecognizedOptionExceptionTest.java
+SPDXID: SPDXRef-115
+FileChecksum: SHA1: 044b3692e08b1fb3be6a01d992575c20502cff1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/UtilTest.java
+SPDXID: SPDXRef-116
+FileChecksum: SHA1: 755ef27f16538c35396ea84ded683960a0280d23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/ValuesTest.java
+SPDXID: SPDXRef-117
+FileChecksum: SHA1: 2c2b1ccea4c649a9d455054e6a5d30dac03f82a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/ValueTest.java
+SPDXID: SPDXRef-118
+FileChecksum: SHA1: e6dce6f2e35d00af3ea6a69333782d596cbf52a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/bug/BugCLI133Test.java
+SPDXID: SPDXRef-120
+FileChecksum: SHA1: c82f66b8d0216f9e01ae70b79a42164a2f6691a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/bug/BugCLI13Test.java
+SPDXID: SPDXRef-121
+FileChecksum: SHA1: 33356c1dc304ad17c3a6a822454d39f9c12e8e39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/bug/BugCLI148Test.java
+SPDXID: SPDXRef-122
+FileChecksum: SHA1: 89f72a19d538163d35db6a72c5de499237bca546
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/bug/BugCLI162Test.java
+SPDXID: SPDXRef-123
+FileChecksum: SHA1: 8205baa55fc17adf86889d688743d4ba1cae20c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/bug/BugCLI18Test.java
+SPDXID: SPDXRef-124
+FileChecksum: SHA1: 8aa8b718dc84ddaf7683516f9345e67a9a4c2575
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/bug/BugCLI252Test.java
+SPDXID: SPDXRef-125
+FileChecksum: SHA1: fe83415144691088844f0c8469b2d75171e6f370
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/bug/BugCLI265Test.java
+SPDXID: SPDXRef-126
+FileChecksum: SHA1: 5440a5d4a050aa67230ea8e4431ac633d1d5a5eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/bug/BugCLI266Test.java
+SPDXID: SPDXRef-127
+FileChecksum: SHA1: b6175d6257024d1451fc2ebe73311ca64676d86b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/bug/BugCLI312Test.java
+SPDXID: SPDXRef-128
+FileChecksum: SHA1: fa9b134311aa103d9fd93ba690e39d70ffc8406b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/bug/BugCLI325Test.java
+SPDXID: SPDXRef-129
+FileChecksum: SHA1: 1c03f044b9656553df4318f2fb30a6a69c74ecc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/bug/BugCLI71Test.java
+SPDXID: SPDXRef-130
+FileChecksum: SHA1: d99cd5309dee48bb7978d419ffbf7a32d7160523
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/java/org/apache/commons/cli/bug/BugsTest.java
+SPDXID: SPDXRef-131
+FileChecksum: SHA1: 895ec517503a179d70f5aac526b298b70403e35b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./commons-cli-1.9.0-src/src/test/resources/org/apache/commons/cli/existing-readable.file
+SPDXID: SPDXRef-137
+FileChecksum: SHA1: 817a06f672a4067d90941550d8032651c2c26cf9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## License Information
+LicenseID: LicenseRef-scancode-generic-cla
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/generic-cla.LICENSE
+</text>
+LicenseName: Generic CLA
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/generic-cla.LICENSE
+</text>
+
+LicenseID: LicenseRef-scancode-generic-cla
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/generic-cla.LICENSE
+</text>
+LicenseName: Generic CLA
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/generic-cla.LICENSE
+</text>
+
+LicenseID: LicenseRef-scancode-generic-cla
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/generic-cla.LICENSE
+</text>
+LicenseName: Generic CLA
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/generic-cla.LICENSE
+</text>
+
+LicenseID: LicenseRef-scancode-unknown-license-reference
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-license-reference.LICENSE
+</text>
+LicenseName: Unknown License reference
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-license-reference.LICENSE
+</text>
+
+
